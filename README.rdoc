@@ -1,3 +1,5 @@
+Dane was here
+
 = Nashville Software School, Week 1 Day 2 Exercise:
 
   * fork the Ruby Koans repo
